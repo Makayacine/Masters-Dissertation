@@ -1,4 +1,4 @@
-
+NB Please note that the notebook may take up to a minute to fully render due to the large amount of whitespace output produced by PySpark when displaying DataFrame previews.
 # Machine Learning for Colorectal Cancer Metabolomic Biomarker Identification
 
 This repository contains the Jupyter Notebook (`Machine Learning.ipynb`) detailing the machine learning workflow used to classify colorectal cancer (CRC) vs. normal tissue samples and identify influential metabolomic biomarkers. This work supports the thesis _“Exploring Metabolomic Signatures in Colorectal Cancer: A Data-Driven Approach for Biomarker Identification.”_
