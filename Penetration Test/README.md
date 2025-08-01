@@ -1,4 +1,3 @@
-````markdown
 # Web Application Penetration Test for the Comprehensive Multi-Omics Dashboard
 
 This directory contains the Jupyter Notebook (`Web App Penetration Test.ipynb`) used to perform an automated security audit of the “Comprehensive Multi-Omics Dashboard” (a Python-Dash web app). The goal is to establish a reproducible framework for testing OWASP Top 10 vulnerabilities in a research context.
